@@ -41,8 +41,6 @@ Correlação entre variáveis como custo total, tempo de reparo e custo unitári
 
 Regressão linear para prever custos com base em variáveis operacionais.
 
-Avaliação do modelo com R² e RMSE.
-
 5. gerar_recomendacoes_graficos_pdf()
 Geração automática de um relatório visual em PDF contendo:
 
