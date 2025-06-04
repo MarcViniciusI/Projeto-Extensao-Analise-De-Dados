@@ -1,0 +1,34 @@
+ID_Peça,Nome_Peça,Categoria,Quantidade_Estoque,Custo_Unitário,Marca,Fornecedor,Tempo_Entrega_Dias,Demanda_Mensal_Estimada
+P001,Rolamento 6203,Rolamento,2,12.5,SKF,R&S Rolamentos,1,4
+P002,Rolamento 6204,Rolamento,3,14.0,NSK,R&S Rolamentos,1,2
+P003,Rolamento 6305,Rolamento,4,22.0,TIMKEN,R&S Rolamentos,1,5
+P004,Rolamento 6201,Rolamento,5,11.0,INA,R&S Rolamentos,1,4
+P005,Retentor 25x47x7,Retentor,2,4.5,Vedabras,R&S Rolamentos,1,1
+P006,Retentor 30x52x10,Retentor,2,5.2,Vedabras,R&S Rolamentos,1,1
+P007,Retentor 35x55x8,Retentor,2,6.1,Arca Retentores,R&S Rolamentos,1,1
+P008,Contactor 9A,Contactor Elétrico,2,45.0,WEG,Eletrol,1,1
+P009,Contactor 12A,Contactor Elétrico,1,52.0,SIEMENS,Eletrol,1,0
+P010,Contactor 18A,Contactor Elétrico,0,61.0,SIEMENS,Eletroflash,2,0
+P011,Contactor 25A,Contactor Elétrico,0,70.0,WEG,Eletroflash,2,0
+P012,Solenoide 12VDC,Solenoide,12,38.0,Parker,EletroPalma,1,1
+P013,Solenoide 24VDC,Solenoide,10,42.5,Bosch,EletroPalma,1,1
+P014,Solenoide 220VAC,Solenoide,7,47.0,Schneider,EletroPalma,2,1
+P015,Resistência Tubular 2000W,Resistência Elétrica,14,55.0,SulTerm,Casa das Resistências,5,2
+P016,Resistência Tubular 3000W,Resistência Elétrica,10,63.0,Termocontrol,Casa das Resistências,5,1
+P017,Resistência Cartucho 1000W,Resistência Elétrica,18,39.0,Termoflex,Casa das Resistências,4,1
+P018,Resistência Cartucho 500W,Resistência Elétrica,20,34.0,Electra,Casa das Resistências,3,1
+P019,Inversor 1CV,Inversor Elétrico,0,990.0,WEG,Eletroflash,2,0
+P020,Inversor 2CV,Inversor Elétrico,0,430.0,SIEMENS,Eletroflash,2,0
+P021,Inversor 3CV,Inversor Elétrico,0,470.0,Schneider,Eletroflash,2,0
+P022,Rolamento 6000,Rolamento,3,9.8,SKF,R&S Rolamentos,1,2
+P023,Rolamento 6001,Rolamento,4,10.5,TIMKEN,R&S Rolamentos,1,1
+P024,Retentor 40x62x10,Retentor,2,6.8,Arca Retentores,R&S Rolamentos,1,2
+P025,Retentor 45x65x10,Retentor,0,7.0,Vedabras,R&S Rolamentos,1,1
+P026,Contactor 32A,Contactor Elétrico,0,85.0,SIEMENS,Eletroflash,2,0
+P027,Contactor 40A,Contactor Elétrico,0,92.0,SIEMENS,Eletroflash,2,0
+P028,Solenoide 110VAC,Solenoide,4,50.0,Parker,EletroPalma,1,1
+P029,Resistência Mica 1500W,Resistência Elétrica,16,46.0,SulTerm,Casa das Resistências,4,1
+P030,Inversor 5CV,Inversor Elétrico,0,520.0,WEG,Eletroflash,2,0
+P031,Resistência Mica 1000W,Resistência Elétrica,14,43.0,Termocontrol,Casa das Resistências,4,1
+P032,Inversor 0.5CV,Inversor Elétrico,0,360.0,SIEMENS,Eletroflash,2,0
+P033,Graxa Azul,Graxa,0,,Unilit Blue,Palma Parafusos,1,1

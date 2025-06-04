@@ -1,0 +1,7 @@
+ID_Fornecedor,Nome,Peças_Fornecidas,Prazo_Entrega_Dias
+F001,R&S Rolamentos,"P001, P002, P003, P004, P005, P006, P007, P022, P023, P024, P025",1
+F002,Eletrol,"P008, P009",1
+F003,Eletroflash,"P010, P011, P019, P020, P021, P026, P027, P030, P032",2
+F004,EletroPalma,"P012, P013, P014, P028","1,2"
+F005,Casa das Resistências,"P015, P016, P017, P018, P029, P031","5,4,3"
+F006,Palma Parafusos,P033,1
